@@ -1,5 +1,0 @@
-setuptools
-python-dotenv
-wheel
-requests
-notion-client
